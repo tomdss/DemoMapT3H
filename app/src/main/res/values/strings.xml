@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapDemoT6</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="per_minute">KM/H</string>
+</resources>
